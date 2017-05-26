@@ -1,0 +1,1 @@
+C:\GitHub\Xamarin\solutions\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
